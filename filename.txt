@@ -1,3 +1,6 @@
 first commit
 second commit testing
 third commit after all checking and testing
+git adding issue from iss53
+
+adding fix with broken email
