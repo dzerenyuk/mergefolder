@@ -1,11 +1,7 @@
 first commit
 second commit testing
 third commit after all checking and testing
-git adding issue from iss53
 
-<<<<<<< HEAD
-adding fix with broken email
-=======
+adding hotfix changes
 
-git finished with a new footer
->>>>>>> iss53
+
